@@ -1,7 +1,15 @@
-### Hi 👋
+# 👋 Hi, I'm Muhammad Ahnaf
 
-👋 Hello! I'm Ahnaf Ardiansyah, but you can call me Ahnaf.
-🌟 Informatics Student.
-🏡 Yogyakarta, Indonesia.
+I enjoy learning new things and working on small projects in my free time.  
+Here I use GitHub to explore ideas, try experiments, and improve step by step.
 
-📫 You can reach me at muhammadahnav@gmail.com
+### ✨ What you’ll find here
+- Personal projects  
+- Experiments and practice  
+- Things I build while learning
+
+### 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/muhammad-ahnaf-ardiansyah-378187281/
+- Email: muhammadahnav@email.com
+
+Thanks for visiting — feel free to look around!
