@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Ahnaf
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="540" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3Rxb2hjd2dkaHdhODJreXIzdWZ3c2N0aHpveXpzcm92NXdlejNwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IRFQYGCokErS0/giphy.gif" width="540" />
 </p>
 
 I enjoy learning new things and working on small projects in my free time.  
